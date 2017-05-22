@@ -1,0 +1,52 @@
+Enter 1 for Permanent Employee.                                                                                                                                                 
+Enter 2 for Temporary Employee.                                                                                                                                                 
+1                                                                                                                                                                               
+--------------------------------------------                                                                                                                                    
+Enter ID of the Employee:                                                                                                                                                       
+101                                                                                                                                                                             
+Enter Name of the Employee:                                                                                                                                                     
+sakul                                                                                                                                                                           
+-------------------------------------                                                                                                                                           
+Enter Basic salary of sakul:                                                                                                                                                    
+25000                                                                                                                                                                           
+Enter total PAID LEAVES :                                                                                                                                                       
+23                                                                                                                                                                              
+Enter total SICK LEAVES:                                                                                                                                                        
+12                                                                                                                                                                              
+Enter total CASUAL LEAVES:                                                                                                                                                      
+6                                                                                                                                                                               
+How many PAID LEAVES you wish to take?                                                                                                                                          
+17           
+How many SICK LEAVES you wish to take?                                                                                                                                          
+6                                                                                                                                                                               
+How many CASUAL LEAVES you wish to take?                                                                                                                                        
+5                                                                                                                                                                               
+-------------------------------------                                                                                                                                           
+Pending Paid Leaves:6                                                                                                                                                           
+Pending Sick Leaves:6                                                                                                                                                           
+Pending Casual Leaves:1                                                                                                                                                         
+--------------Salary of sakul-----------------------                                                                                                                            
+Calculated Basic Salary : Rs.25000.0                                                                                                                                            
+Calculated HRA Salary : Rs.12500.0                                                                                                                                              
+Calculated PF Salary : Rs.3000.0                                                                                                                                                
+Total Salary : Rs.34500.0                                                                                                                                                       
+sh-4.3$ java main                                                                                                                                                               
+Enter 1 for Permanent Employee.                                                                                                                                                 
+Enter 2 for Temporary Employee.                                                                                                                                                 
+2                                                                                                                                                                               
+--------------------------------------------                                                                                                                                    
+Enter ID of the Employee:                                                                                                                                                       
+405                                                                                                                                                                             
+Enter Name of the Employee:                                                                                                                                                     
+sakul                                                                                                                                                                           
+-------------------------------------                                                                                                                                           
+Enter Basic salary of sakul:                                                                                                                                                    
+15000        
+Enter total leaves taken by sakul:                                                                                                                                              
+12                                                                                                                                                                              
+                                                                                                                                                                                
+--------------Salary of sakul-----------------------                                                                                                                            
+Calculated Basic Salary : Rs.7800.0                                                                                                                                             
+Calculated HRA Salary : Rs.3900.0                                                                                                                                               
+Calculated PF Salary : Rs.936.0                                                                                                                                                 
+Total Salary : Rs.17964.0  
